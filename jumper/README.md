@@ -6,7 +6,7 @@ Jumper is a game in which the player seeks to solve a puzzle by guessing the let
 
 ## Get Started
 
-To run the program you need to execute on console or terminal the following command `#python3 jumper`.
+To run the program you need to execute on console.
 
 ## Game Rules
 
@@ -19,13 +19,6 @@ Jumper is played according to the following rules.
 - If the puzzle is solved the game is over.
 - If the player has no more parachute the game is over.
 
-## Game Design
 
-This will will the design of our game
-![Game Class Design](jumperClassDesign.png)
 
-## Team Members
 
-- Ronilo Gulay
-- Giovanni Bonfim
-- Alan Montoya
